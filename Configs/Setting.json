@@ -1,0 +1,13 @@
+{
+  "WindowWidth": 1027.0,
+  "WindowHeight": 599.0,
+  "WindowPositionX": 314,
+  "WindowPositionY": 322,
+  "AutoCleanFrameAnalysisFolder": true,
+  "FrameAnalysisFolderReserveNumber": 1,
+  "ModSwitchKey": "\"x\",\"c\",\"v\",\"b\",\"n\",\"m\",\"j\",\"k\",\"l\",\"o\",\"p\",\"[\",\"]\",\"x\",\"c\",\"v\",\"b\",\"n\",\"m\",\"j\",\"k\",\"l\",\"o\",\"p\",\"[\",\"]\",\"x\",\"c\",\"v\",\"b\",\"n\",\"m\",\"j\",\"k\",\"l\",\"o\",\"p\",\"[\",\"]\"",
+  "DontSplitModelByMatchFirstIndex": false,
+  "AutoTextureOnlyConvertDiffuseMap": true,
+  "AutoTextureFormat": 0,
+  "AutoDetectAndMarkTexture": true
+}

@@ -1,0 +1,60 @@
+{
+  "D3D11ElementList": [
+    {
+      "SemanticName": "POSITION",
+      "Format": "R32G32B32_FLOAT",
+      "ExtractSlot": "cs-t0",
+      "ExtractTechnique": "pointlist",
+      "Category": "Position",
+      "DrawCategory": "Position"
+    },
+    {
+      "SemanticName": "NORMAL",
+      "Format": "R32G32B32_FLOAT",
+      "ExtractSlot": "cs-t0",
+      "ExtractTechnique": "pointlist",
+      "Category": "Position",
+      "DrawCategory": "Position"
+    },
+    {
+      "SemanticName": "TANGENT",
+      "Format": "R32G32B32A32_FLOAT",
+      "ExtractSlot": "cs-t0",
+      "ExtractTechnique": "pointlist",
+      "Category": "Position",
+      "DrawCategory": "Position"
+    },
+    {
+      "SemanticName": "COLOR",
+      "Format": "R16G16_FLOAT",
+      "ExtractSlot": "vb1",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Texcoord",
+      "DrawCategory": "Texcoord"
+    },
+    {
+      "SemanticName": "TEXCOORD",
+      "Format": "R32G32_FLOAT",
+      "ExtractSlot": "vb1",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Texcoord",
+      "DrawCategory": "Texcoord"
+    },
+    {
+      "SemanticName": "BLENDWEIGHTS",
+      "Format": "R32G32B32A32_FLOAT",
+      "ExtractSlot": "cs-t1",
+      "ExtractTechnique": "pointlist",
+      "Category": "Blend",
+      "DrawCategory": "Blend"
+    },
+    {
+      "SemanticName": "BLENDINDICES",
+      "Format": "R32G32B32A32_SINT",
+      "ExtractSlot": "cs-t1",
+      "ExtractTechnique": "pointlist",
+      "Category": "Blend",
+      "DrawCategory": "Blend"
+    }
+  ]
+}
