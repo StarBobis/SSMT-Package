@@ -1,0 +1,86 @@
+{
+  "VertexLimitVB": "42030c61",
+  "CategoryHash": {
+    "Position": "9d364e29",
+    "Blend": "343bacbb",
+    "Texcoord": "332ac67d"
+  },
+  "MatchFirstIndex": [
+    "0",
+    "78900"
+  ],
+  "PartNameList": [
+    "1",
+    "2"
+  ],
+  "ImportModelList": [
+    "6122856e-1",
+    "6122856e-2"
+  ],
+  "WorkGameType": "GPU_P12_N12_C4_TA16_BW16_BI16_T8_",
+  "CategoryDrawCategoryMap": {
+    "Position": "Position",
+    "Blend": "Blend",
+    "Texcoord": "Texcoord"
+  },
+  "GPU-PreSkinning": true,
+  "PartNameTextureResourceReplaceList": {},
+  "D3D11ElementList": [
+    {
+      "SemanticName": "POSITION",
+      "SemanticIndex": "0",
+      "Format": "R32G32B32_FLOAT",
+      "ByteWidth": 12,
+      "ExtractSlot": "vb0",
+      "Category": "Position"
+    },
+    {
+      "SemanticName": "NORMAL",
+      "SemanticIndex": "0",
+      "Format": "R32G32B32_FLOAT",
+      "ByteWidth": 12,
+      "ExtractSlot": "vb0",
+      "Category": "Position"
+    },
+    {
+      "SemanticName": "COLOR",
+      "SemanticIndex": "0",
+      "Format": "R8G8B8A8_UNORM",
+      "ByteWidth": 4,
+      "ExtractSlot": "vb0",
+      "Category": "Position"
+    },
+    {
+      "SemanticName": "TANGENT",
+      "SemanticIndex": "0",
+      "Format": "R32G32B32A32_FLOAT",
+      "ByteWidth": 16,
+      "ExtractSlot": "vb0",
+      "Category": "Position"
+    },
+    {
+      "SemanticName": "BLENDWEIGHTS",
+      "SemanticIndex": "0",
+      "Format": "R32G32B32A32_FLOAT",
+      "ByteWidth": 16,
+      "ExtractSlot": "vb1",
+      "Category": "Blend"
+    },
+    {
+      "SemanticName": "BLENDINDICES",
+      "SemanticIndex": "0",
+      "Format": "R32G32B32A32_SINT",
+      "ByteWidth": 16,
+      "ExtractSlot": "vb1",
+      "Category": "Blend"
+    },
+    {
+      "SemanticName": "TEXCOORD",
+      "SemanticIndex": "0",
+      "Format": "R32G32_FLOAT",
+      "ByteWidth": 8,
+      "ExtractSlot": "vb1",
+      "Category": "Texcoord"
+    }
+  ]
+}

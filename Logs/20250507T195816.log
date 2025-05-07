@@ -1,0 +1,14 @@
+2025-05-07 19:58:16.275 [INFO] 初始化D3D11GameTypeLv2::Start
+2025-05-07 19:58:16.282 [INFO] 读取GameType分类: IdentityV
+2025-05-07 19:58:16.307 [Error] System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Administrator\Desktop\DBMT-Package\Configs\GameTypeConfigs\IdentityV'.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateDirectoryHandle(String path, Boolean ignoreNotFound)
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.Enumeration.FileSystemEnumerable`1..ctor(String directory, FindTransform transform, EnumerationOptions options, Boolean isNormalized)
+   at System.IO.Enumeration.FileSystemEnumerableFactory.UserFiles(String directory, String expression, EnumerationOptions options)
+   at System.IO.Directory.InternalEnumeratePaths(String path, String searchPattern, SearchTarget searchTarget, EnumerationOptions options)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, EnumerationOptions enumerationOptions)
+   at DBMT_Core.D3D11GameTypeLv2..ctor(String GameName) in C:\Users\Administrator\source\repos\DirectX-BufferModTool-New\DBMT-Core\D3D11\D3D11GameTypeLv2.cs:line 28
+   at DBMT_Core.CoreFunctions.ExtractUnityVS(List`1 DrawIBItemList) in C:\Users\Administrator\source\repos\DirectX-BufferModTool-New\DBMT-Core\CoreFunctions\ExtractUnity.cs:line 21
+   at DBMT.WorkPage.ExtractModel(Object sender, RoutedEventArgs e) in C:\Users\Administrator\source\repos\DirectX-BufferModTool-New\DBMT\DBMT\WorkPage.xaml.cs:line 574
+2025-05-07 19:58:16.308 [INFO] 日志系统结束于 2025-05-07 19:58:16.308
+2025-05-07 19:58:16.309 [INFO] 本次会话总耗时: 0.037 秒
