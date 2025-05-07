@@ -1,0 +1,90 @@
+{
+  "VertexLimitVB": "60b79139",
+  "CategoryHash": {
+    "Position": "60b79139"
+  },
+  "MatchFirstIndex": [
+    "0",
+    "2094"
+  ],
+  "PartNameList": [
+    "1",
+    "2"
+  ],
+  "ImportModelList": [
+    "3e32e603-1",
+    "3e32e603-2"
+  ],
+  "WorkGameType": "GPU_P12_N12_TA12_C4_T8_T1-8_BW16_BI8_",
+  "CategoryDrawCategoryMap": {
+    "Position": "Position"
+  },
+  "GPU-PreSkinning": true,
+  "PartNameTextureResourceReplaceList": {},
+  "D3D11ElementList": [
+    {
+      "SemanticName": "POSITION",
+      "SemanticIndex": "0",
+      "Format": "R32G32B32_FLOAT",
+      "ByteWidth": 12,
+      "ExtractSlot": "vb0",
+      "Category": "Position"
+    },
+    {
+      "SemanticName": "NORMAL",
+      "SemanticIndex": "0",
+      "Format": "R32G32B32_FLOAT",
+      "ByteWidth": 12,
+      "ExtractSlot": "vb0",
+      "Category": "Position"
+    },
+    {
+      "SemanticName": "TANGENT",
+      "SemanticIndex": "0",
+      "Format": "R32G32B32_FLOAT",
+      "ByteWidth": 12,
+      "ExtractSlot": "vb0",
+      "Category": "Position"
+    },
+    {
+      "SemanticName": "COLOR",
+      "SemanticIndex": "0",
+      "Format": "R8G8B8A8_UNORM",
+      "ByteWidth": 4,
+      "ExtractSlot": "vb0",
+      "Category": "Position"
+    },
+    {
+      "SemanticName": "TEXCOORD",
+      "SemanticIndex": "0",
+      "Format": "R32G32_FLOAT",
+      "ByteWidth": 8,
+      "ExtractSlot": "vb0",
+      "Category": "Position"
+    },
+    {
+      "SemanticName": "TEXCOORD",
+      "SemanticIndex": "1",
+      "Format": "R32G32_FLOAT",
+      "ByteWidth": 8,
+      "ExtractSlot": "vb0",
+      "Category": "Position"
+    },
+    {
+      "SemanticName": "BLENDWEIGHTS",
+      "SemanticIndex": "0",
+      "Format": "R32G32B32A32_FLOAT",
+      "ByteWidth": 16,
+      "ExtractSlot": "vb0",
+      "Category": "Position"
+    },
+    {
+      "SemanticName": "BLENDINDICES",
+      "SemanticIndex": "0",
+      "Format": "R16G16B16A16_UINT",
+      "ByteWidth": 8,
+      "ExtractSlot": "vb0",
+      "Category": "Position"
+    }
+  ]
+}
