@@ -1,0 +1,68 @@
+{
+  "D3D11ElementList": [
+    {
+      "SemanticName": "POSITION",
+      "Format": "R32G32B32_FLOAT",
+      "ExtractSlot": "vb0",
+      "ExtractTechnique": "pointlist",
+      "Category": "Position",
+      "DrawCategory": "Position"
+    },
+    {
+      "SemanticName": "NORMAL",
+      "Format": "R32G32B32_FLOAT",
+      "ExtractSlot": "vb0",
+      "ExtractTechnique": "pointlist",
+      "Category": "Position",
+      "DrawCategory": "Position"
+    },
+    {
+      "SemanticName": "TANGENT",
+      "Format": "R32G32B32A32_FLOAT",
+      "ExtractSlot": "vb0",
+      "ExtractTechnique": "pointlist",
+      "Category": "Position",
+      "DrawCategory": "Position"
+    },
+    {
+      "SemanticName": "COLOR",
+      "Format": "R8G8B8A8_UNORM",
+      "ExtractSlot": "vb1",
+      "ExtractTechnique": "pointlist",
+      "Category": "Texcoord",
+      "DrawCategory": "Texcoord"
+    },
+    {
+      "SemanticName": "TEXCOORD",
+      "Format": "R32G32_FLOAT",
+      "ExtractSlot": "vb1",
+      "ExtractTechnique": "pointlist",
+      "Category": "Texcoord",
+      "DrawCategory": "Texcoord"
+    },
+    {
+      "SemanticName": "TEXCOORD",
+      "Format": "R32G32_FLOAT",
+      "ExtractSlot": "vb1",
+      "ExtractTechnique": "pointlist",
+      "Category": "Texcoord",
+      "DrawCategory": "Texcoord"
+    },
+    {
+      "SemanticName": "TEXCOORD",
+      "Format": "R32G32_FLOAT",
+      "ExtractSlot": "vb1",
+      "ExtractTechnique": "pointlist",
+      "Category": "Texcoord",
+      "DrawCategory": "Texcoord"
+    },
+    {
+      "SemanticName": "BLENDINDICES",
+      "Format": "R32_UINT",
+      "ExtractSlot": "vb2",
+      "ExtractTechnique": "pointlist",
+      "Category": "Blend",
+      "DrawCategory": "Position"
+    }
+  ]
+}
