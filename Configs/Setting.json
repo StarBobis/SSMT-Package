@@ -1,8 +1,8 @@
 {
-  "WindowWidth": 1095.0,
+  "WindowWidth": 1096.0,
   "WindowHeight": 599.0,
-  "WindowPositionX": 452,
-  "WindowPositionY": 196,
+  "WindowPositionX": 384,
+  "WindowPositionY": 262,
   "AutoCleanFrameAnalysisFolder": true,
   "FrameAnalysisFolderReserveNumber": 1,
   "ModSwitchKey": "\"x\",\"c\",\"v\",\"b\",\"n\",\"m\",\"j\",\"k\",\"l\",\"o\",\"p\",\"[\",\"]\",\"x\",\"c\",\"v\",\"b\",\"n\",\"m\",\"j\",\"k\",\"l\",\"o\",\"p\",\"[\",\"]\",\"x\",\"c\",\"v\",\"b\",\"n\",\"m\",\"j\",\"k\",\"l\",\"o\",\"p\",\"[\",\"]\"",
