@@ -12,3 +12,5 @@
 
 由于特殊原因，DBMT已移除对GI(Genshin Impact 原神)的支持。
 
+由于特殊原因，DBMT已移除对IdentityV(第五人格)的支持。
+
