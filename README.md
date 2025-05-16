@@ -8,3 +8,7 @@
 
 - DBMT的后续的自动增量更新功能就是从这里获取更新的。
 
+# 注意 Warning
+
+由于特殊原因，DBMT已移除对GI(Genshin Impact 原神)的支持。
+
