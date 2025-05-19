@@ -1,0 +1,52 @@
+{
+  "D3D11ElementList": [
+    {
+      "SemanticName": "POSITION",
+      "Format": "R32G32B32_FLOAT",
+      "ExtractSlot": "vb0",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Position",
+      "DrawCategory": "Position"
+    },
+    {
+      "SemanticName": "NORMAL",
+      "Format": "R32G32B32_FLOAT",
+      "ExtractSlot": "vb1",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Normal",
+      "DrawCategory": "Normal"
+    },
+    {
+      "SemanticName": "TANGENT",
+      "Format": "R32G32B32A32_FLOAT",
+      "ExtractSlot": "vb2",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Tangent",
+      "DrawCategory": "Tangent"
+    },
+    {
+      "SemanticName": "TEXCOORD",
+      "Format": "R32G32_FLOAT",
+      "ExtractSlot": "vb3",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Texcoord",
+      "DrawCategory": "Texcoord"
+    },
+    {
+      "SemanticName": "TEXCOORD",
+      "Format": "R32G32_FLOAT",
+      "ExtractSlot": "vb3",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Texcoord",
+      "DrawCategory": "Texcoord"
+    },
+    {
+      "SemanticName": "TEXCOORD",
+      "Format": "R32G32_FLOAT",
+      "ExtractSlot": "vb3",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Texcoord",
+      "DrawCategory": "Texcoord"
+    }
+  ]
+}
