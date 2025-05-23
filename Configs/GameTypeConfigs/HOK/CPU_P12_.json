@@ -1,0 +1,12 @@
+{
+  "D3D11ElementList": [
+    {
+      "SemanticName": "POSITION",
+      "Format": "R32G32B32_FLOAT",
+      "ExtractSlot": "vb0",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Position",
+      "DrawCategory": "Position"
+    }
+  ]
+}
