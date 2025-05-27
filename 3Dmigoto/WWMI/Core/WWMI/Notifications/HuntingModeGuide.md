@@ -4,7 +4,7 @@ To enable built-in debugger, remove ';' before 'include = Core/Debugger/Debugger
 [SHIFT]+[F12]: Toggle Debugger (refer to Core/Debugger/Debugger.ini)
 
 Hunting Mode Hotkeys (NumPad):
-[0]: Toggle Hunting Mode
+[0]: Toggle Hunting Mode (make sure to Enable Hunting in Launcher > Settings > WWMI)
 [+]: Reset hunting (reduces number of buffers/shaders to cycle)
 [F8]: Create Frame Dump
 Hint: Lower resolution to lower framedump size

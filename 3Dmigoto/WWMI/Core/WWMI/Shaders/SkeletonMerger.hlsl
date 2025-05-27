@@ -20,9 +20,6 @@ Texture1D<float4> IniParams : register(t120);
 [numthreads(64,1,1)]
 void main(uint3 ThreadId : SV_DispatchThreadID)
 {
-    
-int cb_vertex_offset = 0;
-
 	int vg_id = ThreadId.x;
 
     if (vg_id >= VertexGroupCount) {
@@ -40,7 +37,6 @@ int cb_vertex_offset = 0;
         MergedSkeleton[vg_offset+1] = Skeleton[vg_id+1] * CustomMeshScale;
         MergedSkeleton[vg_offset+2] = Skeleton[vg_id+2] * CustomMeshScale;
     }
-
 }
 
 #endif
