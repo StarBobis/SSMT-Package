@@ -1,0 +1,49 @@
+{
+  "SlotList": [
+    {
+      "Slot": "ps-t0",
+      "MarkName": "DiffuseMap",
+      "MarkStyle": "Slot",
+      "Render": true,
+      "Suffix": ".dds"
+    },
+    {
+      "Slot": "ps-t1",
+      "MarkName": "",
+      "MarkStyle": "Slot",
+      "Render": true,
+      "Suffix": ".dds"
+    },
+    {
+      "Slot": "ps-t3",
+      "MarkName": "",
+      "MarkStyle": "Hash",
+      "Render": false,
+      "Suffix": ".jpg"
+    },
+    {
+      "Slot": "ps-t4",
+      "MarkName": "",
+      "MarkStyle": "Hash",
+      "Render": false,
+      "Suffix": ".jpg"
+    },
+    {
+      "Slot": "ps-t6",
+      "MarkName": "",
+      "MarkStyle": "Hash",
+      "Render": false,
+      "Suffix": ".jpg"
+    },
+    {
+      "Slot": "ps-t7",
+      "MarkName": "",
+      "MarkStyle": "Hash",
+      "Render": false,
+      "Suffix": ".jpg"
+    }
+  ],
+  "PixelShaderHashList": [
+    "370de4061da568c6"
+  ]
+}
