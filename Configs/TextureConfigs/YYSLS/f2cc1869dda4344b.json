@@ -1,0 +1,35 @@
+{
+  "SlotList": [
+    {
+      "Slot": "ps-t0",
+      "MarkName": "DiffuseMap",
+      "MarkStyle": "Hash",
+      "Render": true,
+      "Suffix": ".dds"
+    },
+    {
+      "Slot": "ps-t1",
+      "MarkName": "",
+      "MarkStyle": "Hash",
+      "Render": true,
+      "Suffix": ".dds"
+    },
+    {
+      "Slot": "ps-t3",
+      "MarkName": "",
+      "MarkStyle": "Hash",
+      "Render": true,
+      "Suffix": ".dds"
+    },
+    {
+      "Slot": "ps-t6",
+      "MarkName": "",
+      "MarkStyle": "Hash",
+      "Render": true,
+      "Suffix": ".jpg"
+    }
+  ],
+  "PixelShaderHashList": [
+    "f2cc1869dda4344b"
+  ]
+}
