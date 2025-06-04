@@ -1,0 +1,14 @@
+{
+  "SlotList": [
+    {
+      "Slot": "ps-t0",
+      "MarkName": "DiffuseMap",
+      "MarkStyle": "Slot",
+      "Render": true,
+      "Suffix": ".dds"
+    }
+  ],
+  "PixelShaderHashList": [
+    "426e4b962f66b0af"
+  ]
+}
