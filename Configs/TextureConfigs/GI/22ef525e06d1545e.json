@@ -25,32 +25,32 @@
       "Slot": "ps-t3",
       "MarkName": "",
       "MarkStyle": "Hash",
-      "Render": false,
+      "Render": true,
       "Suffix": ".jpg"
     },
     {
       "Slot": "ps-t4",
       "MarkName": "",
       "MarkStyle": "Hash",
-      "Render": false,
+      "Render": true,
       "Suffix": ".jpg"
     },
     {
       "Slot": "ps-t6",
       "MarkName": "",
       "MarkStyle": "Hash",
-      "Render": false,
+      "Render": true,
       "Suffix": ".jpg"
     },
     {
       "Slot": "ps-t7",
       "MarkName": "",
       "MarkStyle": "Hash",
-      "Render": false,
+      "Render": true,
       "Suffix": ".jpg"
     }
   ],
   "PixelShaderHashList": [
-    "370de4061da568c6"
+    "22ef525e06d1545e"
   ]
 }

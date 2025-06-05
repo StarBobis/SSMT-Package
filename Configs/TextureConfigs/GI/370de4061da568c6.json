@@ -9,8 +9,15 @@
     },
     {
       "Slot": "ps-t1",
-      "MarkName": "",
+      "MarkName": "LightMap",
       "MarkStyle": "Slot",
+      "Render": true,
+      "Suffix": ".dds"
+    },
+    {
+      "Slot": "ps-t2",
+      "MarkName": "",
+      "MarkStyle": "Hash",
       "Render": true,
       "Suffix": ".dds"
     },
@@ -18,28 +25,28 @@
       "Slot": "ps-t3",
       "MarkName": "",
       "MarkStyle": "Hash",
-      "Render": false,
+      "Render": true,
       "Suffix": ".jpg"
     },
     {
       "Slot": "ps-t4",
       "MarkName": "",
       "MarkStyle": "Hash",
-      "Render": false,
+      "Render": true,
       "Suffix": ".jpg"
     },
     {
       "Slot": "ps-t6",
       "MarkName": "",
       "MarkStyle": "Hash",
-      "Render": false,
+      "Render": true,
       "Suffix": ".jpg"
     },
     {
       "Slot": "ps-t7",
       "MarkName": "",
       "MarkStyle": "Hash",
-      "Render": false,
+      "Render": true,
       "Suffix": ".jpg"
     }
   ],
