@@ -8,14 +8,14 @@
       "Suffix": ".dds"
     },
     {
-      "Slot": "ps-t3",
+      "Slot": "ps-t2",
       "MarkName": "",
       "MarkStyle": "Hash",
       "Render": true,
       "Suffix": ".jpg"
     },
     {
-      "Slot": "ps-t4",
+      "Slot": "ps-t3",
       "MarkName": "",
       "MarkStyle": "Hash",
       "Render": true,
@@ -69,72 +69,9 @@
       "MarkStyle": "Hash",
       "Render": true,
       "Suffix": ".dds"
-    },
-    {
-      "Slot": "ps-t13",
-      "MarkName": "",
-      "MarkStyle": "Hash",
-      "Render": true,
-      "Suffix": ".dds"
-    },
-    {
-      "Slot": "ps-t14",
-      "MarkName": "",
-      "MarkStyle": "Hash",
-      "Render": true,
-      "Suffix": ".dds"
-    },
-    {
-      "Slot": "ps-t15",
-      "MarkName": "",
-      "MarkStyle": "Hash",
-      "Render": true,
-      "Suffix": ".dds"
-    },
-    {
-      "Slot": "ps-t16",
-      "MarkName": "",
-      "MarkStyle": "Hash",
-      "Render": true,
-      "Suffix": ".dds"
-    },
-    {
-      "Slot": "ps-t17",
-      "MarkName": "",
-      "MarkStyle": "Hash",
-      "Render": true,
-      "Suffix": ".dds"
-    },
-    {
-      "Slot": "ps-t18",
-      "MarkName": "",
-      "MarkStyle": "Hash",
-      "Render": true,
-      "Suffix": ".dds"
-    },
-    {
-      "Slot": "ps-t19",
-      "MarkName": "",
-      "MarkStyle": "Hash",
-      "Render": true,
-      "Suffix": ".dds"
-    },
-    {
-      "Slot": "ps-t20",
-      "MarkName": "",
-      "MarkStyle": "Hash",
-      "Render": true,
-      "Suffix": ".dds"
-    },
-    {
-      "Slot": "ps-t21",
-      "MarkName": "",
-      "MarkStyle": "Hash",
-      "Render": true,
-      "Suffix": ".dds"
     }
   ],
   "PixelShaderHashList": [
-    "0b9b3217fef75d97"
+    "a90fdfa4a7f49e8b"
   ]
 }

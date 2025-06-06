@@ -1,16 +1,16 @@
 {
   "CurrentGameName": "Game001",
   "CurrentWorkSpace": "Tessa-ChunRiXuQu",
-  "CurrentGameMigotoFolder": "C:\\Users\\Administrator\\Desktop\\3DmigotoLoaders\\Game001\\3Dmigoto",
+  "CurrentGameMigotoFolder": "C:\\Users\\Administrator\\Desktop\\3DmigotoLoaders\\GF2",
   "DBMTWorkFolder": "C:\\Users\\Administrator\\Desktop\\DBMT-Package",
-  "WindowWidth": 1007.0,
+  "WindowWidth": 1000.0,
   "WindowHeight": 599.0,
-  "WindowPositionX": 599,
-  "WindowPositionY": 298,
+  "WindowPositionX": 244,
+  "WindowPositionY": 253,
   "AutoCleanFrameAnalysisFolder": true,
   "FrameAnalysisFolderReserveNumber": 1,
   "ModSwitchKey": "\"x\",\"c\",\"v\",\"b\",\"n\",\"m\",\"j\",\"k\",\"l\",\"o\",\"p\",\"[\",\"]\",\"x\",\"c\",\"v\",\"b\",\"n\",\"m\",\"j\",\"k\",\"l\",\"o\",\"p\",\"[\",\"]\",\"x\",\"c\",\"v\",\"b\",\"n\",\"m\",\"j\",\"k\",\"l\",\"o\",\"p\",\"[\",\"]\"",
   "AutoTextureOnlyConvertDiffuseMap": true,
   "AutoTextureFormat": "jpg",
-  "AutoDetectAndMarkTexture": true
+  "AutoDetectAndMarkTexture": false
 }
