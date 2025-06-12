@@ -58,8 +58,8 @@
     },
     {
       "Slot": "ps-t9",
-      "MarkName": "",
-      "MarkStyle": "Hash",
+      "MarkName": "HighLightMap",
+      "MarkStyle": "Slot",
       "Render": true,
       "Suffix": ".dds"
     },
