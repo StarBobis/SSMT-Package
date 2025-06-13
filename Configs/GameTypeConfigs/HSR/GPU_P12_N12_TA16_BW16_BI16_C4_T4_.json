@@ -3,7 +3,7 @@
     {
       "SemanticName": "POSITION",
       "Format": "R32G32B32_FLOAT",
-      "ExtractSlot": "",
+      "ExtractSlot": "cs-t0",
       "ExtractTechnique": "pointlist",
       "Category": "Position",
       "DrawCategory": "Position"
@@ -11,7 +11,7 @@
     {
       "SemanticName": "NORMAL",
       "Format": "R32G32B32_FLOAT",
-      "ExtractSlot": "",
+      "ExtractSlot": "cs-t0",
       "ExtractTechnique": "pointlist",
       "Category": "Position",
       "DrawCategory": "Position"
@@ -19,7 +19,7 @@
     {
       "SemanticName": "TANGENT",
       "Format": "R32G32B32A32_FLOAT",
-      "ExtractSlot": "",
+      "ExtractSlot": "cs-t0",
       "ExtractTechnique": "pointlist",
       "Category": "Position",
       "DrawCategory": "Position"
@@ -27,7 +27,7 @@
     {
       "SemanticName": "BLENDWEIGHTS",
       "Format": "R32G32B32A32_FLOAT",
-      "ExtractSlot": "",
+      "ExtractSlot": "cs-t1",
       "ExtractTechnique": "pointlist",
       "Category": "Blend",
       "DrawCategory": "Blend"
@@ -35,7 +35,7 @@
     {
       "SemanticName": "BLENDINDICES",
       "Format": "R32G32B32A32_SINT",
-      "ExtractSlot": "",
+      "ExtractSlot": "cs-t1",
       "ExtractTechnique": "pointlist",
       "Category": "Blend",
       "DrawCategory": "Blend"
