@@ -1,6 +1,7 @@
 # SSMT(Super Simple Migoto Tools)
 - 下载后直接解压即可使用。
 ![alt text](image.png)
+
 - SSMT自带的3Dmigoto在SSMT-Package的3Dmigoto目录下。
 - SSMT和SSMT插件的版本是对应配套的，如果发现不兼容，请全部更新到最新版。
 - 请勿将SSMT-Package放到U盘或外接可插拔USB接口的硬盘里，否则会出现Dump内容全是软链接且失效的问题（放到U盘中由于权限不足，即使不开启Symlink特性也会Dump下来一堆链接文件，且无法被SSMT识别）。
@@ -8,17 +9,22 @@
 # (0) 第一次安装
 https://github.com/StarBobis/SSMT-Package
 ![alt text](image-1.png)
+
 下载SSMT-Package，这个里面的内容是SSMT依赖的，且经常更新的，比如会添加一些新的数据类型进去，以及会添加一些新贴图配置进去。下载完随便找个位置解压（别放U盘或者外置可插拔USB接口磁盘，别放中文路径下），这里我直接放桌面了：
 ![alt text](image-2.png)
+
 群公告或群文件下载解压并打开SSMT.exe:
 ![alt text](image-3.png)
+
 在设置页面中选择SSMT总工作文件夹路径为这个下载的文件夹路径（确保路径无中文且不是U盘或外接可插拔USB磁盘）：
 ![alt text](image-4.png)
+
 
 接下来就可以正常使用SSMT了
 # (1) 选择游戏
 点击右上角下拉菜单可以选择当前工作的游戏：
 ![alt text](image-5.png)
+
 # (2) 进行3Dmigoto配置
 启动SSMT后，大概是这个样子：
 ![alt text](image-6.png)
@@ -47,10 +53,12 @@ SSMT自带的各个游戏的3Dmigoto在SSMT-Package的Games目录下，尽量不
 一般是目标游戏的主程序的路径
 一般米游的进程路径和启动路径填写相同的即可，米游不需要填写启动参数，除非你有自定义的需求，那么请自行填写。
 ![alt text](image-12.png)
+
 ## 启动路径
 一般为游戏的启动器或者进程路径。
 米游比较特殊，它允许不经过官方启动器直接调起进程启动，但是其它游戏不一定允许，所以这里的启动路径，一般我们填写的是能够调起这个游戏的游戏的启动器路径。
 ![alt text](image-13.png)
+
 ## 启动参数
 虽然有些游戏不允许直接启动它的进程路径，但是当你附加了启动参数之后，是可以直接启动进程路径的，比如Naraka：
 
