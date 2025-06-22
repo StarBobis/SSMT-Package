@@ -11,8 +11,9 @@
 
 ![alt text](image-1.png)
 
-也就是Windows系统的symlink，也就是软链接，这个是我推荐的一个标准设置。
+也就是Windows系统的symlink，<font color="red">也就是软链接</font>，这个是我推荐的一个标准设置。
 如果软链接失败会尝试创建硬链接。
+
 
 # 说明
 - 此功能对标gui_collect中的部分dump，但是不需要额外的学习成本，更加简单方便好用直接。
