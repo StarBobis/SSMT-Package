@@ -28,8 +28,8 @@ https://github.com/StarBobis/SSMT-Package
 
 ![alt text](image-4.png)
 
+设置完成后，接下来就可以正常使用SSMT了
 
-接下来就可以正常使用SSMT了
 # (1) 选择游戏
 点击右上角下拉菜单可以选择当前工作的游戏：
 
