@@ -20,7 +20,11 @@ https://github.com/StarBobis/SSMT-Package
 
 ![alt text](image-3.png)
 
-在设置页面中选择SSMT总工作文件夹路径为这个下载的文件夹路径（确保路径无中文且不是U盘或外接可插拔USB磁盘）：
+点击设置=>首选项页面：
+
+![alt text](image-18.png)
+
+在首选项页面中选择SSMT总工作文件夹路径为这个下载的文件夹路径（确保路径无中文且不是U盘或外接可插拔USB磁盘）：
 
 ![alt text](image-4.png)
 
