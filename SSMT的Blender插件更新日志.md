@@ -1,3 +1,7 @@
+# V1.6.2
+- 修复了导入.ib .vb .fmt文件时，无法记忆路径，每次都以当前工作空间路径为起始路径的问题。
+- IdentityV和部分游戏Hash风格自动贴图添加额外的SlotCheck，解决贴图需要手动添加SlotCheck才能生效的问题。
+
 # V1.6.1
 - HSR现在生成Mod时，会读取tmp.json里的OriginalVertexCount字段来决定是否生成VertexLimitRaise部分，如果大于OriginalVertexCount才会生成，这个新机制修复了当生成Mod的顶点数少于原本模型顶点数时模型消失的BUG。（需配合SSMT# V1.2.2.3或以上版本才能生效）
 # V1.6.0
