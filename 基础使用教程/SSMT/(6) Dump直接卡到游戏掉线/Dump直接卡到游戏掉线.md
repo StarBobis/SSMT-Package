@@ -1,4 +1,4 @@
-![alt text](image.png)
+![alt text](figures/image.png)
 
 - 这取决于你当前的Hunting界面有多少个IB
 - IB越多，dump的文件越多

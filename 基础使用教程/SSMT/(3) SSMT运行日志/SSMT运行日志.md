@@ -2,7 +2,7 @@
 
 必须附带SSMT那次执行的运行日志，点这里可以查看
 
-![alt text](image.png)
+![alt text](figures/image.png)
 
 有遇到疑难杂症或者无法解决的报错信息时，也可以把运行日志发给我来寻求技术支持。
 

@@ -1,7 +1,7 @@
 # 概念介绍
 在ZZZ和WuWa中，偶尔能见到TEXCOORD2.xy中的内容很奇怪：
 
-![alt text](image.png)
+![alt text](figures/image.png)
 
 但是如果我们不去复现这个，就会导致部分轮廓线出问题，所以得想办法搞个和它一样的。
 
@@ -9,11 +9,11 @@
 
 首先找一个合适的摄像机机位，切换到前面，然后从UV投影，只勾选Correct Aspect
 
-![alt text](image-1.png)
+![alt text](figures/image-1.png)
 
 然后再UV=>Mirror=>Y
 
-![alt text](image-2.png)
+![alt text](figures/image-2.png)
 
 即可得到完美的Texcoord2中的投影，这里要注意摄像机机位的把控。
 做完之后可能还需要进行手动偏移和原本的位置差不多对上，如果左右相反也可以手动再Mirrot X一下。

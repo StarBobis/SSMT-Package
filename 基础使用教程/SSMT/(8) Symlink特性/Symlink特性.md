@@ -4,12 +4,12 @@
 
 如图，我们在d3dx.ini中找到analyse_options设置：
 
-![alt text](image.png)
+![alt text](figures/image.png)
 
 这里一般情况下你用的旧的3Dmigoto是不会在结尾有symlink这个东西的
 我们加上之后再去dump，就会发现dump出来的文件全部都是快捷方式：
 
-![alt text](image-1.png)
+![alt text](figures/image-1.png)
 
 也就是Windows系统的symlink，<font color="red">也就是软链接</font>，这个是我推荐的一个标准设置。
 如果软链接失败会尝试创建硬链接。
@@ -29,7 +29,7 @@
 # SSMT的集成
 因为Symlink是个很常用的特性，所以我们在SSMT的3Dmigoto配置界面做了集成
 
-![alt text](image-2.png)
+![alt text](figures/image-2.png)
 
 如果要开启Symlink特性，只需要在这里进行简单的勾选即可，如果是游戏时更改别忘了F10重载配置。
 
