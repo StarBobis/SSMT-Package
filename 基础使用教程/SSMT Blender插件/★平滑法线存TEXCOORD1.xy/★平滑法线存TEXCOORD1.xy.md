@@ -6,7 +6,7 @@
 这个实际上是把模型的平滑法线存到UV里了，那么我们在修改模型之后，这个TEXCOORD1.xy里的内容肯定也需要跟着变
 
 # 使用方法
-所以在Blender里可以右键模型=>3Dmigoto=>平滑法线存UV(近似)
+所以在Blender里可以右键模型=>3DMigoto=>平滑法线存UV(近似)
 
 ![alt text](figures/image-1.png)
 

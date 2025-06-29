@@ -1,12 +1,12 @@
 # 开启Symlink特性以减少FrameAnalysis文件夹大小
 
-在使用3Dmigoto的过程中，开启Hunting界面之后如果再按F8，默认的配置会把所有的东西全部Dump出来，平均大小3-20个G不等，但是如果开启了symlink特性，就可以大幅度减少Dump所需时间，并且减少Dump下来的文件的空间占用。
+在使用3DMigoto的过程中，开启Hunting界面之后如果再按F8，默认的配置会把所有的东西全部Dump出来，平均大小3-20个G不等，但是如果开启了symlink特性，就可以大幅度减少Dump所需时间，并且减少Dump下来的文件的空间占用。
 
 如图，我们在d3dx.ini中找到analyse_options设置：
 
 ![alt text](figures/image.png)
 
-这里一般情况下你用的旧的3Dmigoto是不会在结尾有symlink这个东西的
+这里一般情况下你用的旧的3DMigoto是不会在结尾有symlink这个东西的
 我们加上之后再去dump，就会发现dump出来的文件全部都是快捷方式：
 
 ![alt text](figures/image-1.png)
@@ -27,7 +27,7 @@
 - 在测试新游戏时需要频繁观察文件大小，但是symlink需要额外使用010Editor打开文件才能查看大小，有点不方便。
 
 # SSMT的集成
-因为Symlink是个很常用的特性，所以我们在SSMT的3Dmigoto配置界面做了集成
+因为Symlink是个很常用的特性，所以我们在SSMT的3DMigoto配置界面做了集成
 
 ![alt text](figures/image-2.png)
 
