@@ -1,0 +1,70 @@
+{
+  "SlotList": [
+    {
+      "Slot": "ps-t0",
+      "MarkName": "DiffuseMap",
+      "MarkStyle": "Slot",
+      "Render": true,
+      "Suffix": ".dds"
+    },
+    {
+      "Slot": "ps-t1",
+      "MarkName": "LightMap",
+      "MarkStyle": "Slot",
+      "Render": true,
+      "Suffix": ".dds"
+    },
+    {
+      "Slot": "ps-t2",
+      "MarkName": "",
+      "MarkStyle": "Hash",
+      "Render": true,
+      "Suffix": ".jpg"
+    },
+    {
+      "Slot": "ps-t3",
+      "MarkName": "",
+      "MarkStyle": "Hash",
+      "Render": true,
+      "Suffix": ".jpg"
+    },
+    {
+      "Slot": "ps-t4",
+      "MarkName": "",
+      "MarkStyle": "Hash",
+      "Render": true,
+      "Suffix": ".jpg"
+    },
+    {
+      "Slot": "ps-t5",
+      "MarkName": "",
+      "MarkStyle": "Hash",
+      "Render": true,
+      "Suffix": ".jpg"
+    },
+    {
+      "Slot": "ps-t6",
+      "MarkName": "",
+      "MarkStyle": "Hash",
+      "Render": true,
+      "Suffix": ".jpg"
+    },
+    {
+      "Slot": "ps-t7",
+      "MarkName": "",
+      "MarkStyle": "Hash",
+      "Render": true,
+      "Suffix": ".jpg"
+    },
+    {
+      "Slot": "ps-t8",
+      "MarkName": "",
+      "MarkStyle": "Hash",
+      "Render": true,
+      "Suffix": ".jpg"
+    }
+  ],
+  "PixelShaderHashList": [
+    "37eac0365efec9be"
+  ]
+}
