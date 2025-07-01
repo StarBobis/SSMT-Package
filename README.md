@@ -11,7 +11,7 @@
 
 部分内容为闭源，比如3Dmigoto-GameMod-Fork中的Play版dll，比如Plugins里的texconv.exe是第三方微软的dds贴图转换工具。
 
-3Dmigoto-GameMod-Fork中的Dev版本3Dmigoto源码来源于SpectrumQT的仓库，并进行了修改：
+3Dmigoto-GameMod-Fork中的Dev版本3Dmigoto来源于SpectrumQT的仓库：
 - https://github.com/SpectrumQT/XXMI-Libs-Package
 
 大部分游戏的3Dmigoto配置来源于公开的Github，并根据测试需要进行了部分修改：
