@@ -1,16 +1,18 @@
 {
-  "CurrentGameName": "HSR",
-  "CurrentWorkSpace": "Buronia",
-  "CurrentGameMigotoFolder": "C:\\Users\\Administrator\\Desktop\\3DmigotoLoaders\\HSR\\3Dmigoto",
+  "CurrentGameName": "GI",
+  "CurrentWorkSpace": "",
+  "CurrentGameMigotoFolder": "C:\\Users\\Administrator\\Desktop\\3DmigotoLoaders\\GI\\3Dmigoto",
   "DBMTWorkFolder": "C:\\Users\\Administrator\\Desktop\\SSMT-Package",
   "WindowWidth": 1280.0,
   "WindowHeight": 719.0,
-  "WindowPositionX": 406,
-  "WindowPositionY": 160,
+  "WindowPositionX": 186,
+  "WindowPositionY": 174,
   "AutoCleanFrameAnalysisFolder": true,
   "FrameAnalysisFolderReserveNumber": 1,
   "ModSwitchKey": "\"x\",\"v\",\"b\",\"n\",\"m\",\"m\",\"j\",\"k\",\"l\",\"o\",\"p\",\"[\",\"]\",\"x\",\"c\",\"v\",\"b\",\"n\",\"m\",\"j\",\"k\",\"l\",\"o\",\"p\",\"[\",\"]\",\"x\",\"c\",\"v\",\"b\",\"n\",\"m\",\"j\",\"k\",\"l\",\"o\",\"p\",\"[\",\"]\"",
   "AutoTextureOnlyConvertDiffuseMap": true,
   "AutoTextureFormat": "jpg",
-  "AutoDetectAndMarkTexture": true
+  "AutoDetectAndMarkTexture": true,
+  "AutoOpenReversedFolderAfterReverse": true,
+  "AutoConvertTextureAfterReverse": true
 }

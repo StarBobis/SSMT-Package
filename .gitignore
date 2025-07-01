@@ -1,5 +1,19 @@
+# 部分仅测试使用的游戏没必要上传，代码完全完善并测试通过后再上传
 Games/Game001/
 Games/HOK/
 Games/TheOutcast/
+
+# 日志文件上传毫无意义
 Logs/
+
+# 工作空间动辄几个G，不能上传
 WorkSpace/
+
+# 测试逆向出来的东西，无需上传
+Reversed/
+
+# 自用的测试插件，上传毫无意义
+Plugins/3Dmigoto-Sword-Lv5.vmp.exe
+Plugins/DBMT-Encryptor.vmp.exe
+Plugins/DBMT-Protect.vmp.exe
+
