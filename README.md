@@ -18,7 +18,6 @@
 - 鸣潮 https://github.com/SpectrumQT/WWMI-Package
 - 崩坏：星穹铁道 https://github.com/SpectrumQT/SRMI-Package
 - 绝区零 https://github.com/leotorrez/ZZMI-Package
-- 原神 https://github.com/SpectrumQT/GIMI-TEST
 - 崩坏三 https://github.com/SpectrumQT/GIMI-TEST
 
 其它游戏加载器也参考了上述仓库内容进行了配置。
@@ -32,9 +31,6 @@ SSMT绝不是用来直接玩Mod的，如果你是玩Mod来的，优先考虑使�
 
 此仓库内容全部是测试内容，随时可能发生变动，无法保证所有功能都完善，有问题请提交issue反馈。
 
-# 为什么部分游戏不支持了？
-
-别问，不会支持了。
 
 
 
