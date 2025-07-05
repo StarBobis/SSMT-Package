@@ -1,0 +1,44 @@
+{
+  "D3D11ElementList": [
+    {
+      "SemanticName": "POSITION",
+      "Format": "R32G32B32_FLOAT",
+      "ExtractSlot": "vb0",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Position",
+      "DrawCategory": "Position"
+    },
+    {
+      "SemanticName": "TANGENT",
+      "Format": "R8G8B8A8_SNORM",
+      "ExtractSlot": "vb1",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Normal",
+      "DrawCategory": "Normal"
+    },
+    {
+      "SemanticName": "NORMAL",
+      "Format": "R8G8B8A8_SNORM",
+      "ExtractSlot": "vb1",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Normal",
+      "DrawCategory": "Normal"
+    },
+    {
+      "SemanticName": "COLOR",
+      "Format": "R32G32B32A32_FLOAT",
+      "ExtractSlot": "vb2",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Color",
+      "DrawCategory": "Color"
+    },
+    {
+      "SemanticName": "TEXCOORD",
+      "Format": "R16G16_FLOAT",
+      "ExtractSlot": "vb3",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Texcoord",
+      "DrawCategory": "Texcoord"
+    }
+  ]
+}
