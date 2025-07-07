@@ -5,7 +5,7 @@
       "MarkName": "",
       "MarkStyle": "Hash",
       "Render": true,
-      "Suffix": ".dds"
+      "Suffix": ".jpg"
     },
     {
       "Slot": "ps-t2",
@@ -17,7 +17,7 @@
     {
       "Slot": "ps-t3",
       "MarkName": "DiffuseMap",
-      "MarkStyle": "Hash",
+      "MarkStyle": "Slot",
       "Render": true,
       "Suffix": ".dds"
     },
@@ -26,19 +26,19 @@
       "MarkName": "NormalMap",
       "MarkStyle": "Slot",
       "Render": true,
-      "Suffix": ".dds"
+      "Suffix": ".jpg"
     },
     {
       "Slot": "ps-t5",
-      "MarkName": "",
-      "MarkStyle": "Hash",
+      "MarkName": "LightMap",
+      "MarkStyle": "Slot",
       "Render": true,
       "Suffix": ".dds"
     },
     {
       "Slot": "ps-t6",
-      "MarkName": "",
-      "MarkStyle": "Hash",
+      "MarkName": "MaterialMap",
+      "MarkStyle": "Slot",
       "Render": true,
       "Suffix": ".dds"
     },
@@ -47,7 +47,7 @@
       "MarkName": "",
       "MarkStyle": "Hash",
       "Render": true,
-      "Suffix": ".dds"
+      "Suffix": ".jpg"
     }
   ],
   "PixelShaderHashList": [
