@@ -3,6 +3,9 @@ Games/Game001/
 Games/HOK/
 Games/TheOutcast/
 
+# nvapi64.dll现在的架构用不上了
+nvapi64.dll
+
 # 日志文件上传毫无意义
 Logs/
 
