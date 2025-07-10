@@ -32,7 +32,6 @@
 - 原神 https://github.com/SpectrumQT/GIMI-TEST
 - 崩坏三 https://github.com/leotorrez/HIMI-Package
 
-
 # 合规提醒
 SSMT及其相关工具仅用于基于模组的二创视频制作，禁止用于其它用途，请确保使用合规，
 
