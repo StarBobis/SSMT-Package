@@ -22,6 +22,7 @@ Plugins/DBMT-Protect.vmp.exe
 
 # 3Dmigoto的日志文件
 d3d11_log.txt
+d3dx_user.ini
 ShaderUsage.txt
 FrameAnalysis-*
 
@@ -34,3 +35,15 @@ Mod_*
 3Dmigoto/HI3
 3Dmigoto/WuWa
 3Dmigoto/WWMI
+3Dmigoto/BloodySpell
+3Dmigoto/GF2
+
+# 米游的背景图，没必要塞进来
+Background.webp
+
+# 部分自带加载器的内容
+3Dmigoto/IdentityV/3Dmigoto Loader.exe
+3Dmigoto/IdentityV/d3d11.dll
+3Dmigoto/IdentityV/d3dcompiler_46.dll
+3Dmigoto/IdentityV/d3dcompiler_47.dll
+
