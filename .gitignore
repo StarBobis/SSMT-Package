@@ -42,11 +42,25 @@ Mod_*
 Background.webp
 
 # 部分自带加载器的内容
+3Dmigoto/IdentityV/3Dmigoto Loader.exe
+3Dmigoto/IdentityV/d3d11.dll
+3Dmigoto/IdentityV/d3dcompiler_46.dll
+3Dmigoto/IdentityV/d3dcompiler_47.dll
 
-3Dmigoto/*/3Dmigoto Loader.exe
-3Dmigoto/*/d3d11.dll
-3Dmigoto/*/d3dcompiler_46.dll
-3Dmigoto/*/d3dcompiler_47.dll
+
+3Dmigoto/AILIMIT/3Dmigoto Loader.exe
+3Dmigoto/AILIMIT/d3d11.dll
+3Dmigoto/AILIMIT/d3dcompiler_46.dll
+3Dmigoto/AILIMIT/d3dcompiler_47.dll
+
+3Dmigoto/MiSide/3Dmigoto Loader.exe
+3Dmigoto/MiSide/d3d11.dll
+3Dmigoto/MiSide/d3dcompiler_46.dll
+3Dmigoto/MiSide/d3dcompiler_47.dll
 
 
+3Dmigoto/YYSLS/3Dmigoto Loader.exe
+3Dmigoto/YYSLS/d3d11.dll
+3Dmigoto/YYSLS/d3dcompiler_46.dll
+3Dmigoto/YYSLS/d3dcompiler_47.dll
 
