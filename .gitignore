@@ -41,6 +41,9 @@ Mod_*
 # 米游的背景图，没必要塞进来
 Background.webp
 
+# 默认的背景图也没有必要提供，最大程度减少包体大小，方便自动更新
+Background.png
+
 # 部分自带加载器的内容
 3Dmigoto/IdentityV/3Dmigoto Loader.exe
 3Dmigoto/IdentityV/d3d11.dll
