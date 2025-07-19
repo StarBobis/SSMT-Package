@@ -44,6 +44,9 @@ Background.webp
 # 默认的背景图也没有必要提供，最大程度减少包体大小，方便自动更新
 Background.png
 
+# 默认配置文件也不需要，用户自己会生成配置文件
+MainConfig.json
+
 # 部分自带加载器的内容
 3Dmigoto/IdentityV/3Dmigoto Loader.exe
 3Dmigoto/IdentityV/d3d11.dll
