@@ -27,3 +27,10 @@ FrameAnalysis-*
 
 Mod_*
 
+# 部分游戏加载器默认无需提供，而是从Github获取最新的
+3Dmigoto/GI
+3Dmigoto/HSR
+3Dmigoto/ZZZ
+3Dmigoto/HI3
+3Dmigoto/WuWa
+3Dmigoto/WWMI
