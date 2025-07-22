@@ -14,5 +14,6 @@
   "AutoTextureFormat": "jpg",
   "AutoDetectAndMarkTexture": true,
   "AutoOpenReversedFolderAfterReverse": true,
-  "AutoConvertTextureAfterReverse": true
+  "AutoConvertTextureAfterReverse": true,
+  "OpenToWorkPage": false
 }
