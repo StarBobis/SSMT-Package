@@ -5,8 +5,13 @@
       "Show": true
     }
   ],
-  "TargetPath": "",
+  "TargetPath": "D:\\Genshin Impact Game\\YuanShen.exe",
   "3DmigotoPath": "C:\\Users\\Administrator\\Desktop\\SSMT-Package\\3Dmigoto\\GI\\",
   "LogicName": "UnityVS",
-  "LaunchItems": []
+  "LaunchItems": [
+    {
+      "LaunchExePath": "D:\\Genshin Impact Game\\YuanShen.exe",
+      "LaunchArgs": ""
+    }
+  ]
 }

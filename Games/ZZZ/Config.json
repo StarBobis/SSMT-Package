@@ -1,6 +1,11 @@
 {
-  "TargetPath": "",
+  "TargetPath": "D:\\ZenlessZoneZero Game\\ZenlessZoneZero.exe",
   "3DmigotoPath": "C:\\Users\\Administrator\\Desktop\\SSMT-Package\\3Dmigoto\\ZZZ\\",
   "LogicName": "ZenlessZoneZero",
-  "LaunchItems": []
+  "LaunchItems": [
+    {
+      "LaunchExePath": "D:\\ZenlessZoneZero Game\\ZenlessZoneZero.exe",
+      "LaunchArgs": ""
+    }
+  ]
 }
