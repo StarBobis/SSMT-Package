@@ -1,0 +1,12 @@
+{
+  "GameIconSettingList": [
+    {
+      "GameName": "GI",
+      "Show": true
+    }
+  ],
+  "TargetPath": "",
+  "3DmigotoPath": "C:\\Users\\Administrator\\Desktop\\SSMT-Package\\3Dmigoto\\GI\\",
+  "LogicName": "UnityVS",
+  "LaunchItems": []
+}

@@ -1,7 +1,21 @@
 {
   "SlotList": [
     {
+      "Slot": "ps-t0",
+      "MarkName": "",
+      "MarkStyle": "Hash",
+      "Render": true,
+      "Suffix": ".dds"
+    },
+    {
       "Slot": "ps-t1",
+      "MarkName": "DiffuseMap",
+      "MarkStyle": "Hash",
+      "Render": true,
+      "Suffix": ".dds"
+    },
+    {
+      "Slot": "ps-t2",
       "MarkName": "",
       "MarkStyle": "Hash",
       "Render": true,
@@ -36,35 +50,7 @@
       "Suffix": ".dds"
     },
     {
-      "Slot": "ps-t8",
-      "MarkName": "DiffuseMap",
-      "MarkStyle": "Slot",
-      "Render": true,
-      "Suffix": ".dds"
-    },
-    {
-      "Slot": "ps-t9",
-      "MarkName": "",
-      "MarkStyle": "Hash",
-      "Render": true,
-      "Suffix": ".dds"
-    },
-    {
-      "Slot": "ps-t10",
-      "MarkName": "",
-      "MarkStyle": "Hash",
-      "Render": true,
-      "Suffix": ".dds"
-    },
-    {
-      "Slot": "ps-t11",
-      "MarkName": "",
-      "MarkStyle": "Hash",
-      "Render": true,
-      "Suffix": ".dds"
-    },
-    {
-      "Slot": "ps-t12",
+      "Slot": "ps-t7",
       "MarkName": "",
       "MarkStyle": "Hash",
       "Render": true,
@@ -72,6 +58,6 @@
     }
   ],
   "PixelShaderHashList": [
-    "0b9b3217fef75d97"
+    "38490f2430acd261"
   ]
 }

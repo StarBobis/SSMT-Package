@@ -1,43 +1,64 @@
 {
   "SlotList": [
     {
+      "Slot": "ps-t0",
+      "MarkName": "",
+      "MarkStyle": "Slot",
+      "Render": true,
+      "Suffix": ".dds"
+    },
+    {
       "Slot": "ps-t1",
       "MarkName": "",
-      "MarkStyle": "Hash",
+      "MarkStyle": "Slot",
+      "Render": true,
+      "Suffix": ".dds"
+    },
+    {
+      "Slot": "ps-t2",
+      "MarkName": "DiffuseMap",
+      "MarkStyle": "Slot",
       "Render": true,
       "Suffix": ".dds"
     },
     {
       "Slot": "ps-t3",
       "MarkName": "",
-      "MarkStyle": "Hash",
+      "MarkStyle": "Slot",
       "Render": true,
       "Suffix": ".dds"
     },
     {
       "Slot": "ps-t4",
       "MarkName": "",
-      "MarkStyle": "Hash",
+      "MarkStyle": "Slot",
       "Render": true,
       "Suffix": ".dds"
     },
     {
       "Slot": "ps-t5",
       "MarkName": "",
-      "MarkStyle": "Hash",
+      "MarkStyle": "Slot",
       "Render": true,
       "Suffix": ".dds"
     },
     {
       "Slot": "ps-t6",
       "MarkName": "",
-      "MarkStyle": "Hash",
+      "MarkStyle": "Slot",
+      "Render": true,
+      "Suffix": ".dds"
+    },
+    {
+      "Slot": "ps-t7",
+      "MarkName": "",
+      "MarkStyle": "Slot",
       "Render": true,
       "Suffix": ".dds"
     },
     {
       "Slot": "ps-t8",
-      "MarkName": "DiffuseMap",
+      "MarkName": "",
       "MarkStyle": "Slot",
       "Render": true,
       "Suffix": ".dds"
@@ -45,33 +66,40 @@
     {
       "Slot": "ps-t9",
       "MarkName": "",
-      "MarkStyle": "Hash",
+      "MarkStyle": "Slot",
       "Render": true,
       "Suffix": ".dds"
     },
     {
       "Slot": "ps-t10",
       "MarkName": "",
-      "MarkStyle": "Hash",
+      "MarkStyle": "Slot",
       "Render": true,
       "Suffix": ".dds"
     },
     {
       "Slot": "ps-t11",
       "MarkName": "",
-      "MarkStyle": "Hash",
+      "MarkStyle": "Slot",
       "Render": true,
       "Suffix": ".dds"
     },
     {
       "Slot": "ps-t12",
       "MarkName": "",
-      "MarkStyle": "Hash",
+      "MarkStyle": "Slot",
+      "Render": true,
+      "Suffix": ".dds"
+    },
+    {
+      "Slot": "ps-t14",
+      "MarkName": "",
+      "MarkStyle": "Slot",
       "Render": true,
       "Suffix": ".dds"
     }
   ],
   "PixelShaderHashList": [
-    "0b9b3217fef75d97"
+    "d68ad8b7e82e25e0"
   ]
 }

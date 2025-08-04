@@ -48,6 +48,20 @@
       "MarkStyle": "Hash",
       "Render": true,
       "Suffix": ".dds"
+    },
+    {
+      "Slot": "ps-t7",
+      "MarkName": "",
+      "MarkStyle": "Hash",
+      "Render": true,
+      "Suffix": ".dds"
+    },
+    {
+      "Slot": "ps-t8",
+      "MarkName": "",
+      "MarkStyle": "Hash",
+      "Render": true,
+      "Suffix": ".dds"
     }
   ],
   "PixelShaderHashList": [

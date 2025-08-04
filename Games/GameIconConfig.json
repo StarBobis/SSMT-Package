@@ -1,0 +1,24 @@
+{
+  "GameIconSettingList": [
+    {
+      "GameName": "GI",
+      "Show": true
+    },
+    {
+      "GameName": "HI3",
+      "Show": true
+    },
+    {
+      "GameName": "ZZZ",
+      "Show": true
+    },
+    {
+      "GameName": "HSR",
+      "Show": true
+    },
+    {
+      "GameName": "IdentityV",
+      "Show": false
+    }
+  ]
+}
