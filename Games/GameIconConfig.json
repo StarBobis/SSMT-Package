@@ -18,7 +18,11 @@
     },
     {
       "GameName": "IdentityV",
-      "Show": false
+      "Show": true
+    },
+    {
+      "GameName": "WuWa",
+      "Show": true
     }
   ]
 }
