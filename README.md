@@ -1,0 +1,2 @@
+- SSMT V1.8.2 版本开始SSMT-Package已内置集成到SSMT中，无需使用额外的SSMT-Package了，所以此仓库归档
+- 暂时不删除此仓库的原因是旧版本SSMT用户也许还需要用到，但旧版本无法体验到新版本SSMT-Package的内容，所以请各位有空尽可能更新SSMT到最新版，就可以不用考虑SSMT-Package的问题了。
