@@ -23,6 +23,14 @@
     {
       "GameName": "WuWa",
       "Show": true
+    },
+    {
+      "GameName": "Game001",
+      "Show": false
+    },
+    {
+      "GameName": "WWMI",
+      "Show": true
     }
   ]
 }
