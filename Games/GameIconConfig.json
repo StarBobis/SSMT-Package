@@ -31,6 +31,14 @@
     {
       "GameName": "WWMI",
       "Show": true
+    },
+    {
+      "GameName": "NeirR",
+      "Show": true
+    },
+    {
+      "GameName": "IdentityV2",
+      "Show": true
     }
   ]
 }
