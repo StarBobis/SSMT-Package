@@ -48,6 +48,11 @@ Background.png
 MainConfig.json
 
 # 部分自带加载器的内容
+3Dmigoto/DOAV/3Dmigoto Loader.exe
+3Dmigoto/DOAV/d3d11.dll
+3Dmigoto/DOAV/d3dcompiler_46.dll
+3Dmigoto/DOAV/d3dcompiler_47.dll
+
 3Dmigoto/IdentityV/3Dmigoto Loader.exe
 3Dmigoto/IdentityV/d3d11.dll
 3Dmigoto/IdentityV/d3dcompiler_46.dll

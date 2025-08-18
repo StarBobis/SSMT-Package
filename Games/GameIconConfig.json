@@ -39,6 +39,10 @@
     {
       "GameName": "IdentityV2",
       "Show": true
+    },
+    {
+      "GameName": "DOAV",
+      "Show": true
     }
   ]
 }
