@@ -3,8 +3,17 @@ Games/Game001/
 Games/HOK/
 Games/TheOutcast/
 
-# nvapi64.dll现在的架构用不上了
-nvapi64.dll
+# 配置文件不需要存在
+Games/**/Config.json
+# 默认配置文件也不需要，用户自己会生成配置文件
+Games/**/MainConfig.json
+# 米游的背景图，没必要塞进来
+Games/**/Background.webp
+# 默认的背景图也没有必要提供，最大程度减少包体大小，方便自动更新
+Games/**/Background.png
+# 图标配置也不需要更新，用户有自己的图标配置
+Games/GameIconConfig.json
+
 
 # 日志文件上传毫无意义
 Logs/
@@ -38,71 +47,14 @@ Mod_*
 3Dmigoto/BloodySpell
 3Dmigoto/GF2
 
-# 米游的背景图，没必要塞进来
-Background.webp
-
-# 默认的背景图也没有必要提供，最大程度减少包体大小，方便自动更新
-Background.png
-
-# 默认配置文件也不需要，用户自己会生成配置文件
-MainConfig.json
-
 # 部分自带加载器的内容
-3Dmigoto/DOAV/3Dmigoto Loader.exe
-3Dmigoto/DOAV/d3d11.dll
-3Dmigoto/DOAV/d3dcompiler_46.dll
-3Dmigoto/DOAV/d3dcompiler_47.dll
+3Dmigoto/**/3Dmigoto Loader.exe
+3Dmigoto/**/d3d11.dll
+3Dmigoto/**/d3dcompiler_46.dll
+3Dmigoto/**/d3dcompiler_47.dll
+# nvapi64.dll现在的架构用不上了
+3Dmigoto/**/nvapi64.dll
 
-3Dmigoto/IdentityV/3Dmigoto Loader.exe
-3Dmigoto/IdentityV/d3d11.dll
-3Dmigoto/IdentityV/d3dcompiler_46.dll
-3Dmigoto/IdentityV/d3dcompiler_47.dll
-
-3Dmigoto/IdentityV2/3Dmigoto Loader.exe
-3Dmigoto/IdentityV2/d3d11.dll
-3Dmigoto/IdentityV2/d3dcompiler_46.dll
-3Dmigoto/IdentityV2/d3dcompiler_47.dll
-
-3Dmigoto/NeirR/3Dmigoto Loader.exe
-3Dmigoto/NeirR/d3d11.dll
-3Dmigoto/NeirR/d3dcompiler_46.dll
-3Dmigoto/NeirR/d3dcompiler_47.dll
-
-3Dmigoto/AILIMIT/3Dmigoto Loader.exe
-3Dmigoto/AILIMIT/d3d11.dll
-3Dmigoto/AILIMIT/d3dcompiler_46.dll
-3Dmigoto/AILIMIT/d3dcompiler_47.dll
-
-3Dmigoto/Game001/3Dmigoto Loader.exe
-3Dmigoto/Game001/d3d11.dll
-3Dmigoto/Game001/d3dcompiler_46.dll
-3Dmigoto/Game001/d3dcompiler_47.dll
-
-3Dmigoto/MiSide/3Dmigoto Loader.exe
-3Dmigoto/MiSide/d3d11.dll
-3Dmigoto/MiSide/d3dcompiler_46.dll
-3Dmigoto/MiSide/d3dcompiler_47.dll
-
-
-3Dmigoto/YYSLS/3Dmigoto Loader.exe
-3Dmigoto/YYSLS/d3d11.dll
-3Dmigoto/YYSLS/d3dcompiler_46.dll
-3Dmigoto/YYSLS/d3dcompiler_47.dll
-
-3Dmigoto/MechaBreak/3Dmigoto Loader.exe
-3Dmigoto/MechaBreak/d3d11.dll
-3Dmigoto/MechaBreak/d3dcompiler_46.dll
-3Dmigoto/MechaBreak/d3dcompiler_47.dll
-
-3Dmigoto/TheOutcast/3Dmigoto Loader.exe
-3Dmigoto/TheOutcast/d3d11.dll
-3Dmigoto/TheOutcast/d3dcompiler_46.dll
-3Dmigoto/TheOutcast/d3dcompiler_47.dll
-
-3Dmigoto/XYZJH2/3Dmigoto Loader.exe
-3Dmigoto/XYZJH2/d3d11.dll
-3Dmigoto/XYZJH2/d3dcompiler_46.dll
-3Dmigoto/XYZJH2/d3dcompiler_47.dll
 
 ArmorSetting.json
 ACLSetting.json
