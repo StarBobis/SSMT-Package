@@ -1,7 +1,7 @@
 {
   "TargetPath": "D:\\Genshin Impact Game\\YuanShen.exe",
-  "3DmigotoPath": "C:\\Users\\Administrator\\Desktop\\SSMT-Package\\3Dmigoto\\GI\\",
-  "LogicName": "",
+  "3DmigotoPath": "D:\\SSMT-Package\\3Dmigoto\\GI\\",
+  "LogicName": "GenshinImpact",
   "LaunchItems": [
     {
       "LaunchExePath": "D:\\Genshin Impact Game\\YuanShen.exe",
