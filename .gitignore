@@ -55,6 +55,7 @@ Mod_*
 # nvapi64.dll现在的架构用不上了
 3Dmigoto/**/nvapi64.dll
 
+ModRepository/
 
 ArmorSetting.json
 ACLSetting.json
