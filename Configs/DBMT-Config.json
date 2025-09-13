@@ -4,8 +4,8 @@
   "DBMTWorkFolder": "D:\\SSMT-Package",
   "WindowWidth": 1280.0,
   "WindowHeight": 689.0,
-  "WindowPositionX": 104,
-  "WindowPositionY": 210,
+  "WindowPositionX": 312,
+  "WindowPositionY": 151,
   "AutoCleanFrameAnalysisFolder": true,
   "FrameAnalysisFolderReserveNumber": 1,
   "ModSwitchKey": "\"x\",\"c\",\"v\",\"b\",\"n\",\"m\",\"j\",\"k\",\"l\",\"o\",\"p\",\"[\",\"]\",\"x\",\"c\",\"v\",\"b\",\"n\",\"m\",\"j\",\"k\",\"l\",\"o\",\"p\",\"[\",\"]\",\"x\",\"c\",\"v\",\"b\",\"n\",\"m\",\"j\",\"k\",\"l\",\"o\",\"p\",\"[\",\"]\"",
@@ -15,6 +15,6 @@
   "AutoOpenReversedFolderAfterReverse": true,
   "AutoConvertTextureAfterReverse": true,
   "OpenToWorkPage": false,
-  "Theme": false,
+  "Theme": true,
   "Chinese": true
 }
