@@ -3,10 +3,11 @@
     {
       "SemanticName": "POSITION",
       "Format": "R16G16B16A16_FLOAT",
-      "ExtractSlot": "vb1",
+      "ExtractSlot": "vb0",
       "ExtractTechnique": "trianglelist",
       "Category": "Position",
-      "DrawCategory": "Position"
+      "DrawCategory": "Position",
+      "ByteWidth": "8"
     },
     {
       "SemanticName": "NORMAL",
@@ -14,7 +15,8 @@
       "ExtractSlot": "vb0",
       "ExtractTechnique": "trianglelist",
       "Category": "Position",
-      "DrawCategory": "Position"
+      "DrawCategory": "Position",
+      "ByteWidth": "4"
     },
     {
       "SemanticName": "COLOR",
@@ -22,7 +24,8 @@
       "ExtractSlot": "vb0",
       "ExtractTechnique": "trianglelist",
       "Category": "Position",
-      "DrawCategory": "Position"
+      "DrawCategory": "Position",
+      "ByteWidth": "4"
     },
     {
       "SemanticName": "TEXCOORD",
@@ -30,7 +33,8 @@
       "ExtractSlot": "vb0",
       "ExtractTechnique": "trianglelist",
       "Category": "Position",
-      "DrawCategory": "Position"
+      "DrawCategory": "Position",
+      "ByteWidth": "4"
     },
     {
       "SemanticName": "TANGENT",
@@ -38,7 +42,8 @@
       "ExtractSlot": "vb0",
       "ExtractTechnique": "trianglelist",
       "Category": "Position",
-      "DrawCategory": "Position"
+      "DrawCategory": "Position",
+      "ByteWidth": "4"
     }
   ]
 }
