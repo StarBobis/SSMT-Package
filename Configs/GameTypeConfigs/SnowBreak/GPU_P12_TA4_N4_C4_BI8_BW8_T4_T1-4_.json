@@ -6,7 +6,8 @@
       "ExtractSlot": "vb0",
       "ExtractTechnique": "trianglelist",
       "Category": "Position",
-      "DrawCategory": "Position"
+      "DrawCategory": "Position",
+      "ByteWidth": "12"
     },
     {
       "SemanticName": "TANGENT",
@@ -14,7 +15,8 @@
       "ExtractSlot": "vb1",
       "ExtractTechnique": "trianglelist",
       "Category": "Vector",
-      "DrawCategory": "Vector"
+      "DrawCategory": "Vector",
+      "ByteWidth": "4"
     },
     {
       "SemanticName": "NORMAL",
@@ -22,39 +24,35 @@
       "ExtractSlot": "vb1",
       "ExtractTechnique": "trianglelist",
       "Category": "Vector",
-      "DrawCategory": "Vector"
+      "DrawCategory": "Vector",
+      "ByteWidth": "4"
+    },
+    {
+      "SemanticName": "COLOR",
+      "Format": "R8G8B8A8_UNORM",
+      "ExtractSlot": "vb3",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Color",
+      "DrawCategory": "Color",
+      "ByteWidth": "4"
     },
     {
       "SemanticName": "BLENDINDICES",
-      "Format": "R8G8B8A8_UINT",
+      "Format": "R8_UINT",
       "ExtractSlot": "vb4",
       "ExtractTechnique": "trianglelist",
       "Category": "Blend",
-      "DrawCategory": "Blend"
-    },
-    {
-      "SemanticName": "BLENDINDICES",
-      "Format": "R8G8B8A8_UINT",
-      "ExtractSlot": "vb4",
-      "ExtractTechnique": "trianglelist",
-      "Category": "Blend",
-      "DrawCategory": "Blend"
+      "DrawCategory": "Blend",
+      "ByteWidth": "8"
     },
     {
       "SemanticName": "BLENDWEIGHTS",
-      "Format": "R8G8B8A8_UNORM",
+      "Format": "R8_UNORM",
       "ExtractSlot": "vb4",
       "ExtractTechnique": "trianglelist",
       "Category": "Blend",
-      "DrawCategory": "Blend"
-    },
-    {
-      "SemanticName": "BLENDWEIGHTS",
-      "Format": "R8G8B8A8_UNORM",
-      "ExtractSlot": "vb4",
-      "ExtractTechnique": "trianglelist",
-      "Category": "Blend",
-      "DrawCategory": "Blend"
+      "DrawCategory": "Blend",
+      "ByteWidth": "8"
     },
     {
       "SemanticName": "TEXCOORD",
@@ -62,7 +60,8 @@
       "ExtractSlot": "vb2",
       "ExtractTechnique": "trianglelist",
       "Category": "Texcoord",
-      "DrawCategory": "Texcoord"
+      "DrawCategory": "Texcoord",
+      "ByteWidth": "4"
     },
     {
       "SemanticName": "TEXCOORD",
@@ -70,15 +69,8 @@
       "ExtractSlot": "vb2",
       "ExtractTechnique": "trianglelist",
       "Category": "Texcoord",
-      "DrawCategory": "Texcoord"
-    },
-    {
-      "SemanticName": "TEXCOORD",
-      "Format": "R16G16_FLOAT",
-      "ExtractSlot": "vb2",
-      "ExtractTechnique": "trianglelist",
-      "Category": "Texcoord",
-      "DrawCategory": "Texcoord"
+      "DrawCategory": "Texcoord",
+      "ByteWidth": "4"
     }
   ]
 }
