@@ -6,7 +6,8 @@
       "ExtractSlot": "vb0",
       "ExtractTechnique": "trianglelist",
       "Category": "Position",
-      "DrawCategory": "Position"
+      "DrawCategory": "Position",
+      "ByteWidth": "12"
     },
     {
       "SemanticName": "COLOR",
@@ -14,7 +15,8 @@
       "ExtractSlot": "vb0",
       "ExtractTechnique": "trianglelist",
       "Category": "Position",
-      "DrawCategory": "Position"
+      "DrawCategory": "Position",
+      "ByteWidth": "4"
     },
     {
       "SemanticName": "NORMAL",
@@ -22,7 +24,8 @@
       "ExtractSlot": "vb0",
       "ExtractTechnique": "trianglelist",
       "Category": "Position",
-      "DrawCategory": "Position"
+      "DrawCategory": "Position",
+      "ByteWidth": "4"
     },
     {
       "SemanticName": "TEXCOORD",
@@ -30,7 +33,8 @@
       "ExtractSlot": "vb0",
       "ExtractTechnique": "trianglelist",
       "Category": "Position",
-      "DrawCategory": "Position"
+      "DrawCategory": "Position",
+      "ByteWidth": "8"
     },
     {
       "SemanticName": "TANGENT",
@@ -38,7 +42,8 @@
       "ExtractSlot": "vb1",
       "ExtractTechnique": "trianglelist",
       "Category": "Texcoord",
-      "DrawCategory": "Texcoord"
+      "DrawCategory": "Texcoord",
+      "ByteWidth": "8"
     },
     {
       "SemanticName": "BINORMAL",
@@ -46,15 +51,17 @@
       "ExtractSlot": "vb1",
       "ExtractTechnique": "trianglelist",
       "Category": "Texcoord",
-      "DrawCategory": "Texcoord"
+      "DrawCategory": "Texcoord",
+      "ByteWidth": "8"
     },
     {
-      "SemanticName": "BLENDWEIGHTS",
+      "SemanticName": "BLENDWEIGHT",
       "Format": "R8G8B8A8_UNORM",
       "ExtractSlot": "vb2",
       "ExtractTechnique": "trianglelist",
       "Category": "Blend",
-      "DrawCategory": "Blend"
+      "DrawCategory": "Blend",
+      "ByteWidth": "4"
     },
     {
       "SemanticName": "BLENDINDICES",
@@ -62,23 +69,26 @@
       "ExtractSlot": "vb2",
       "ExtractTechnique": "trianglelist",
       "Category": "Blend",
-      "DrawCategory": "Blend"
+      "DrawCategory": "Blend",
+      "ByteWidth": "4"
     },
     {
-      "SemanticName": "BLENDWEIGHTS",
+      "SemanticName": "BLENDWEIGHTEXT",
       "Format": "R8G8B8A8_UNORM",
       "ExtractSlot": "vb2",
       "ExtractTechnique": "trianglelist",
       "Category": "Blend",
-      "DrawCategory": "Blend"
+      "DrawCategory": "Blend",
+      "ByteWidth": "4"
     },
     {
-      "SemanticName": "BLENDINDICES",
+      "SemanticName": "BLENDINDICESEXT",
       "Format": "R8G8B8A8_UINT",
       "ExtractSlot": "vb2",
       "ExtractTechnique": "trianglelist",
       "Category": "Blend",
-      "DrawCategory": "Blend"
+      "DrawCategory": "Blend",
+      "ByteWidth": "4"
     }
   ]
 }
