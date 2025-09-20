@@ -29,6 +29,8 @@ Plugins/3Dmigoto-Sword-Lv5.vmp.exe
 Plugins/DBMT-Encryptor.vmp.exe
 Plugins/DBMT-Protect.vmp.exe
 Plugins/IgnoreErrorGI.vmp.exe
+Plugins/GoodWorkGI.vmp.exe
+
 
 # 3Dmigoto的日志文件
 d3d11_log.txt
@@ -54,6 +56,7 @@ Mod_*
 3Dmigoto/**/d3d11.dll
 3Dmigoto/**/d3dcompiler_46.dll
 3Dmigoto/**/d3dcompiler_47.dll
+ */
 # nvapi64.dll现在的架构用不上了
 3Dmigoto/**/nvapi64.dll
 
