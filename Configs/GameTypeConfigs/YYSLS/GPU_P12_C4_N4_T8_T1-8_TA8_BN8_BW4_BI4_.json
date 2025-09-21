@@ -1,0 +1,85 @@
+{
+  "D3D11ElementList": [
+    {
+      "SemanticName": "POSITION",
+      "Format": "R32G32B32_FLOAT",
+      "ExtractSlot": "vb0",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Position",
+      "DrawCategory": "Position",
+      "ByteWidth": "12"
+    },
+    {
+      "SemanticName": "COLOR",
+      "Format": "R8G8B8A8_UNORM",
+      "ExtractSlot": "vb0",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Position",
+      "DrawCategory": "Position",
+      "ByteWidth": "4"
+    },
+    {
+      "SemanticName": "NORMAL",
+      "Format": "R8G8B8A8_UNORM",
+      "ExtractSlot": "vb0",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Position",
+      "DrawCategory": "Position",
+      "ByteWidth": "4"
+    },
+    {
+      "SemanticName": "TEXCOORD",
+      "Format": "R32G32_FLOAT",
+      "ExtractSlot": "vb0",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Position",
+      "DrawCategory": "Position",
+      "ByteWidth": "8"
+    },
+    {
+      "SemanticName": "TEXCOORD",
+      "Format": "R32G32_FLOAT",
+      "ExtractSlot": "vb0",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Position",
+      "DrawCategory": "Position",
+      "ByteWidth": "8"
+    },
+    {
+      "SemanticName": "TANGENT",
+      "Format": "R16G16B16A16_SNORM",
+      "ExtractSlot": "vb1",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Texcoord",
+      "DrawCategory": "Texcoord",
+      "ByteWidth": "8"
+    },
+    {
+      "SemanticName": "BINORMAL",
+      "Format": "R16G16B16A16_SNORM",
+      "ExtractSlot": "vb1",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Texcoord",
+      "DrawCategory": "Texcoord",
+      "ByteWidth": "8"
+    },
+    {
+      "SemanticName": "BLENDWEIGHT",
+      "Format": "R8G8B8A8_UNORM",
+      "ExtractSlot": "vb2",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Blend",
+      "DrawCategory": "Blend",
+      "ByteWidth": "4"
+    },
+    {
+      "SemanticName": "BLENDINDICES",
+      "Format": "R8G8B8A8_UINT",
+      "ExtractSlot": "vb2",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Blend",
+      "DrawCategory": "Blend",
+      "ByteWidth": "4"
+    }
+  ]
+}
