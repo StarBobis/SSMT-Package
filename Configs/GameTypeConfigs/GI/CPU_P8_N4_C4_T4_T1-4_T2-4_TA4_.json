@@ -1,0 +1,67 @@
+{
+  "D3D11ElementList": [
+    {
+      "SemanticName": "POSITION",
+      "Format": "R16G16B16A16_FLOAT",
+      "ExtractSlot": "vb0",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Position",
+      "DrawCategory": "Position",
+      "ByteWidth": "8"
+    },
+    {
+      "SemanticName": "NORMAL",
+      "Format": "R8G8B8A8_SNORM",
+      "ExtractSlot": "vb0",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Position",
+      "DrawCategory": "Position",
+      "ByteWidth": "4"
+    },
+    {
+      "SemanticName": "COLOR",
+      "Format": "R8G8B8A8_UNORM",
+      "ExtractSlot": "vb0",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Position",
+      "DrawCategory": "Position",
+      "ByteWidth": "4"
+    },
+    {
+      "SemanticName": "TEXCOORD",
+      "Format": "R16G16_FLOAT",
+      "ExtractSlot": "vb0",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Position",
+      "DrawCategory": "Position",
+      "ByteWidth": "4"
+    },
+    {
+      "SemanticName": "TEXCOORD",
+      "Format": "R16G16_FLOAT",
+      "ExtractSlot": "vb0",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Position",
+      "DrawCategory": "Position",
+      "ByteWidth": "4"
+    },
+    {
+      "SemanticName": "TEXCOORD",
+      "Format": "R16G16_FLOAT",
+      "ExtractSlot": "vb0",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Position",
+      "DrawCategory": "Position",
+      "ByteWidth": "4"
+    },
+    {
+      "SemanticName": "TANGENT",
+      "Format": "R8G8B8A8_SNORM",
+      "ExtractSlot": "vb0",
+      "ExtractTechnique": "trianglelist",
+      "Category": "Position",
+      "DrawCategory": "Position",
+      "ByteWidth": "4"
+    }
+  ]
+}
