@@ -31,6 +31,12 @@ Plugins/DBMT-Protect.vmp.exe
 Plugins/IgnoreErrorGI.vmp.exe
 Plugins/GoodWorkGI.vmp.exe
 
+Plugins/3Dmigoto-Sword-Lv5.exe
+Plugins/DBMT-Encryptor.exe
+Plugins/DBMT-Protect.exe
+Plugins/IgnoreErrorGI.exe
+Plugins/GoodWorkGI.exe
+
 
 # 3Dmigoto的日志文件
 d3d11_log.txt
@@ -56,7 +62,13 @@ Mod_*
 3Dmigoto/**/d3d11.dll
 3Dmigoto/**/d3dcompiler_46.dll
 3Dmigoto/**/d3dcompiler_47.dll
- */
+
+# Mods和ShaderCache文件夹不需要上传，但文件夹本身需要保留
+3Dmigoto/**/Mods/*
+!3Dmigoto/**/Mods
+3Dmigoto/**/ShaderCache/*
+!3Dmigoto/**/ShaderCache
+
 # nvapi64.dll现在的架构用不上了
 3Dmigoto/**/nvapi64.dll
 
