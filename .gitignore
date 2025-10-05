@@ -65,9 +65,9 @@ Mod_*
 
 # Mods和ShaderCache文件夹不需要上传，但文件夹本身需要保留
 3Dmigoto/**/Mods/*
-!3Dmigoto/**/Mods
+!3Dmigoto/**/Mods/.gitkeep
 3Dmigoto/**/ShaderCache/*
-!3Dmigoto/**/ShaderCache
+!3Dmigoto/**/ShaderCache/.gitkeep
 
 # nvapi64.dll现在的架构用不上了
 3Dmigoto/**/nvapi64.dll
