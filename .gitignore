@@ -37,6 +37,7 @@ Plugins/DBMT-Protect.exe
 Plugins/IgnoreErrorGI.exe
 Plugins/GoodWorkGI.exe
 
+Configs/TextureConfigs/*
 
 # 3Dmigoto的日志文件
 d3d11_log.txt
